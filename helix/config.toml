@@ -1,0 +1,5 @@
+theme = "catppuccin"
+
+[editor]
+completion-trigger-len = 1
+idle-timeout = 50
